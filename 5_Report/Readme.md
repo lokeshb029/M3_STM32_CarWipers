@@ -74,7 +74,27 @@
      Mark Anderson invented on 1902.
      
  # Exploring STM32F407 Discovery Board:
-     
+ 
+   ![image](https://user-images.githubusercontent.com/102849914/169109015-9b29da5b-1e09-438b-ab9e-bf44f1e9dd2d.png)
+
+   
+    This project provides almost all of the basic information required to get started with the STM32F407 Discovery
+    Board as well as driver code development.
+       ● Software Tool :  STM32cubeIDE, for more information visit: STM32CubeIDE
+       ● Hardware Used : STM32F4 DISCOVERY kit, for more information visit: STM32F4 DISCOVERY
+       ● For installation of STM32CubeIDE refer Youtube
+       ● Note: Because this microcontroller has many advanced features and the main goal of this project is to gain
+       all basic insights, only the required  functionalities are added during driver development and other advanced
+       functionality is not added. In the future, I may update the driver and other functionality.
+  The STM32F4 Discovery User Manual, STM32F4xxx Reference Manual (RM0090), and other related documents can be
+  found in the Documents folder. I will rely on these documents for information.such as block diagrams, register details etc.
+  
+ 
+
+
+  
+  
+  
   
 
    
